@@ -10,8 +10,8 @@
   "name":"obj_btn_back",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Buttons",
+    "path":"folders/Objects/Buttons.yy",
   },
   "parentObjectId":null,
   "persistent":false,
